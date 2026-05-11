@@ -13,8 +13,8 @@
   --c-text-body: #343A40; 
   --c-text-muted: #6C757D; 
   --c-white: #FFFFFF;
-  --font-display: 'Syne', sans-serif; 
-  --font-body: 'Inter', sans-serif; 
+  --font-display: 'Syne', sans-serif; /* Más orgánica y menos rígida */
+  --font-body: 'Inter', sans-serif; /* Amigable y legible */
   --radius-sm: 8px;
   --radius-md: 18px;
   --radius-lg: 30px;
