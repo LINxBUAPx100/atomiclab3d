@@ -359,7 +359,7 @@ const App = () => {
 
       <footer>
         <div className="footer-logo">Atomic Lab <span>3D</span></div>
-        <div className="footer-copy">© 2026 · Hecho en Cdmx | Hecho Por Riders.Media </div>
+        <div className="footer-copy">© 2026 · Hecho en Cdmx | Hecho Por <a href="https://riders.media" target="_blank" rel="noopener noreferrer">Riders.Media</a></div>
         <div className="footer-links">
           <a href="#portafolio">Galería</a>
           <a href="#faq">Preguntas</a>
