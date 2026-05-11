@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://LINxBUAPx100.github.io/atomiclabs3d",
+  "homepage": "https://LINxBUAPx100.github.io/atomiclab3d",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
